@@ -1,1 +1,1 @@
-I am writing scripts
+Display the contents list of your current directory

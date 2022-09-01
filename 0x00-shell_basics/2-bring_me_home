@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ..
+vi README.md
+I am writing a script that changes the working directory to the home directory
+

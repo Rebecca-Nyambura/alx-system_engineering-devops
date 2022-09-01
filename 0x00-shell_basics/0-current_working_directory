@@ -1,2 +1,4 @@
 #!/bin/bash
-pwd
+cd ..
+vi README.md
+There is no place like home

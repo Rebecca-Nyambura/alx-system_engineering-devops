@@ -1,2 +1,4 @@
-#!/bin/bash
-mkdir/tmp/my_first_dirextory
+#!bin/bash
+mkdir/tmp/my_first_directory
+vi README.md Create a script that creates a directory named my_first_directory in the /tmp/ directory
+
